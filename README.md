@@ -1,1 +1,1 @@
-[![hello-world](https://github.com/Spring-Silver-Bird/hexlet_pytest/actions/workflows/hello-world.yaml/badge.svg)](https://github.com/Spring-Silver-Bird/hexlet_pytest/actions/workflows/hello-world.yaml)
+[![hello-world](https://github.com/Spring-Silver-Bird/hexlet_pytest/actions/workflows/hello-world.yml/badge.svg)](https://github.com/Spring-Silver-Bird/hexlet_pytest/actions/workflows/hello-world.yml)
